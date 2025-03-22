@@ -1,3 +1,5 @@
 # Hello world 
 This is my repo
-this is a third linej
+this is a third linej 
+
+Eric is wrting some codes. 
